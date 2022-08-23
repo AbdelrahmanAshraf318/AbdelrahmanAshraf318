@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Upwork as a Machine Learning Engineer Freelancer 
 
+⚡ I worked as a Python Developer at COBO International USA (From-Home)
+
 🌱 I’m currently learning Data Science 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanAshraf318&theme=radical)
