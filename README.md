@@ -1,72 +1,188 @@
-# Hi there, I'm Abdelrahman Ashraf! 👋
+# Hi, I'm Abdelrahman Ashraf 👋
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer** with a strong interest in **web applications**, **machine learning**, and **deep learning**. Here's a bit more about me:
+### Software Engineer | Java Backend Development | Spring Boot | System Design
+
+I'm a Software Engineer specializing in **Java backend development, Spring Boot, REST APIs, and software architecture**. I enjoy building reliable, maintainable applications, solving complex engineering problems, and improving the performance of existing systems.
+
+Currently, I work at **Sheen Information Technology**, contributing to a B2B airline booking platform that integrates with **40+ external travel suppliers**. My work involves backend feature development, third-party integrations, architectural refactoring, performance optimization, and production debugging.
+
+I'm passionate about writing clean code, understanding how systems work under the hood, and continuously improving my software engineering skills.
+
+📍 Cairo, Egypt
 
 ---
 
 ## 🚀 About Me
-- **🔭 Focus Areas**: Web Development, Machine Learning, NLP, Generative AI, and Deep Learning.
-- **🎓 Competitive Programming**: Active on Kaggle with **3 Bronze Medals** for Notebook contributions.
-- **💡 Projects**: 
-  - Media-sharing platform (Web and Mobile apps).
-  - To-Do List Application (Spring Boot & MySQL).
-  - Intelligent Customer Support Service (using CNNs and Transformers).
-- **📚 Currently Studying**: 
-  - Spring Boot and MySQL.
-  - Problem-solving on LeetCode.
-  - Generative AI and NLP techniques.
+
+* 💻 **Current Role:** Software Engineer at Sheen Information Technology.
+* ☕ **Primary Stack:** Java, Spring Boot, Hibernate, and REST APIs.
+* 🏗️ **Architecture:** Modular monoliths, microservices, system design, and distributed systems concepts.
+* ⚡ **Performance & Reliability:** Database optimization, caching, legacy code refactoring, and production debugging.
+* 🔌 **Integrations:** Building backend integrations with external APIs and third-party suppliers.
+* 🛡️ **Security:** Spring Security, JWT authentication, and role-based access control.
+* 🧩 **Problem Solving:** Data structures, algorithms, and LeetCode.
+* 🎓 **Education:** B.Sc. in Computer Science, Cairo University.
 
 ---
 
-## 🛠️ Skills and Technologies
+## 🛠️ Technical Skills
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+### Languages & Backend Development
 
-### Frameworks and Tools
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+* Java
+* Spring Framework & Spring Boot
+* Hibernate
+* Spring Data JPA
+* OOP
+* Data Structures and Algorithms
+* Design Patterns\
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases & Caching
+
+* MySQL
+* PostgreSQL
+* Redis\
+
+### Architecture & Engineering
+
+* **Architecture:** Modular Monolith, Microservices, System Design
+* **Principles:** OOP, SOLID, Clean Code, Design Patterns, Refactoring
+* **APIs:** RESTful API Design, Third-Party Integrations, API Error Handling
+* **Security:** Spring Security, JWT, Role-Based Access Control
+* **Data Engineering:** SQL, PL/SQL, Database Design, Query Optimization, Caching
+* **Fundamentals:** Data Structures, Algorithms, Problem Solving
+
+### Tools & DevOps
+
+* GitHub Actions
+* Claude
+* OpenSearch
+* CI/CD pipelines
+* Production log monitoring and debugging
+* Agile development and code reviews
+* Git collaboration workflows
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer — Sheen Information Technology
+
+*February 2025 – Present | Cairo, Egypt · Hybrid*
+
+Working on a high-traffic B2B airline booking platform integrating with 40+ external suppliers.
+
+* **Seat Map Integration:** Designed and implemented an end-to-end seat-map feature, integrating supplier REST APIs to retrieve, parse, and manage dynamic seat availability.
+* **Stateless Architecture:** Refactored the flight-search architecture from stateful to stateless to support horizontal scaling and improve fault tolerance.
+* **Payment Integration:** Integrated virtual credit card (VCC) payment processing through the TripLink API to automate supplier settlements.
+* **Rule Engine Modernization:** Refactored the core rule engine into a modular architecture for efficient evaluation of supplier-, airline-, and flight-specific business rules.
+* **Performance Optimization:** Optimized database queries, modernized legacy components, and introduced caching strategies across ticketing, reporting, markups, and service charges.
+* **Production Reliability:** Investigated production logs, diagnosed issues, contributed to code reviews, and supported CI/CD pipelines and team development workflows.
+
+### Software Engineer — Upwork
+
+*October 2021 – December 2022 | Freelance · Remote*
+
+* Engineered 10+ backend applications using Java, Spring Boot, Hibernate, and microservices architectural patterns.
+* Designed and integrated REST APIs with relational databases.
+* Debugged applications and optimized backend performance.
+
+### Backend Developer — COBO USA
+
+*February 2022 – April 2022 | Remote*
+
+* Built and maintained RESTful APIs using Python, Flask, and PostgreSQL.
+* Used Redis for caching and improved backend development workflows.
+* Containerized microservices using Docker and supported integration with Angular and React frontends.
 
 ---
 
 ## 🌟 Featured Projects
 
-### Media-sharing Platform
-A full-stack platform for uploading and interacting with media, including **likes** and **dislikes**.
-- **Frontend**: React
-- **Backend**: Node.js
-- **Database**: MongoDB
-- **Mobile App**: Android (Java)
+### 🛒 1. SmartCart — E-Commerce Platform
 
-![Media-sharing platform](https://github.com/AbdelrahmanAshraf318/Media-Sharing-Platform)
+A full-stack, single-vendor e-commerce application built using a **modular monolith architecture**. The project focuses on secure shopping workflows, product management, order processing, and maintainable backend design.
+
+**Key features:**
+
+* Product management and product browsing.
+* Shopping-cart and order-processing workflows.
+* Order and order-item persistence with pricing calculations.
+* Secure authentication and role-based authorization.
+* Transactional data management and structured domain modeling.
+* Modular organization designed to support future growth.
+
+**Tech stack:** Java 17 · Spring Boot · Spring Security · JWT · JPA/Hibernate · PostgreSQL · Angular
+
+🔗 **[Explore SmartCart on GitHub](https://github.com/AbdelrahmanAshraf318/E-Commerce)**
+
+### 👥 2. Employee Management System
+
+A full-stack enterprise application for managing employee information and workforce operations, with role-based permissions and database-driven salary calculations.
+
+**Key features:**
+
+* JWT authentication and role-based access control for Admin, Manager, and Employee roles.
+* Redis integration for session caching.
+* Oracle Database triggers for automated salary computations.
+* Separate backend and frontend applications.
+* System design, entity-relationship, and role-permission diagrams.
+
+**Tech stack:** Java · Spring Boot · Angular · Oracle Database · Redis · Docker · JWT
+
+🔗 **[Explore Employee Management System on GitHub](https://github.com/AbdelrahmanAshraf318/Employee-Management-System)**
+
+### 📱 3. Media-Sharing Platform
+
+A multi-platform media application supporting image and video uploads, user engagement, and secure authentication.
+
+**Key features:**
+
+* Image and video sharing.
+* Likes and dislikes for user interaction.
+* Secure authentication workflows.
+* Service-layer separation for backend data processing.
+* Web and mobile application support.
+
+**Tech stack:** Node.js · TypeScript · MongoDB · Java (Android)
+
+🔗 **[Explore Media-Sharing Platform on GitHub](https://github.com/AbdelrahmanAshraf318/Media-Sharing-Platform)**
 
 ---
 
-### To-Do List Application
-A structured application built with:
-- **Backend**: Spring Boot
-- **Database**: MySQL
-- **Frontend**: HTML and CSS (ongoing improvements).
+## 📚 Engineering Interests
 
-![To-Do List Application](https://github.com/AbdelrahmanAshraf318/TO-DO-List)
+I'm continuously developing my understanding of:
+
+* System design and architectural trade-offs.
+* Distributed systems, fault tolerance, and horizontal scaling.
+* Spring Framework internals and application security.
+* Database transactions, indexing, and query execution.
+* Caching, asynchronous processing, and messaging.
+* Data structures, algorithms, and problem-solving techniques.
+
+My goal is to grow into an engineer who can design, build, and maintain reliable backend systems while understanding both their technical implementation and business requirements.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science**
+
+Cairo University | September 2018 – May 2022
+
+GPA: **3.21 / 4.00**
+
+Relevant coursework: Data Structures and Algorithms, Database Systems, Operating Systems, System Design Patterns, and Advanced Software Engineering.
 
 ---
 
-### Intelligent Customer Support Service
-An AI-powered support service utilizing **CNNs** and **Transformers** to improve user interactions and response times.
-
-![Customer Support Service](https://via.placeholder.com/800x400.png?text=Customer+Support+Service)
+## 📊 GitHub Statistics
 
 ---
+
+*Building reliable software, solving meaningful problems, and getting better with every project.* 🚀
+
 
 ## 📈 GitHub Stats
 
